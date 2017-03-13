@@ -3,7 +3,6 @@ import time
 import re
 
 number = (randint(0,100))
-print (number)
 print ("Find the number between 0 and 100\n")
 
 def check():
